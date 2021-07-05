@@ -1,7 +1,7 @@
 import telebot
 import yfinance as yf
 
-TOKEN = '1680930811:AAGfWdG7kBwQFRFSnzeck9fr-sGTQLsSz8A'
+TOKEN = ''
 
 bot = telebot.TeleBot(TOKEN)
 
